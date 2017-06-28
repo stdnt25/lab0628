@@ -1,0 +1,8 @@
+D:\Lab\lab0628\test0628_try1\test0628_try1\bin\Debug\test0628_try1.exe.config
+D:\Lab\lab0628\test0628_try1\test0628_try1\bin\Debug\test0628_try1.exe
+D:\Lab\lab0628\test0628_try1\test0628_try1\bin\Debug\test0628_try1.pdb
+D:\Lab\lab0628\test0628_try1\test0628_try1\obj\Debug\test0628_try1.csprojResolveAssemblyReference.cache
+D:\Lab\lab0628\test0628_try1\test0628_try1\obj\Debug\test0628_try1.Properties.Resources.resources
+D:\Lab\lab0628\test0628_try1\test0628_try1\obj\Debug\test0628_try1.csproj.GenerateResource.Cache
+D:\Lab\lab0628\test0628_try1\test0628_try1\obj\Debug\test0628_try1.exe
+D:\Lab\lab0628\test0628_try1\test0628_try1\obj\Debug\test0628_try1.pdb
